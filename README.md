@@ -1,12 +1,14 @@
 # ruTorrent-MaterialDesign
 
-cd /var/www/rutorrent/plugins/theme/themes
+## Install
 
-git clone git://github.com/phlooo/ruTorrent-MaterialDesign.git MaterialDesign
+```bash
+$ cd /var/www/rutorrent/plugins/theme/themes
+$ git clone https://github.com/djerfy/rutorrent-materialdesign.git MaterialDesign
+$ chown -R www-data:www-data MaterialDesign
+```
 
-chown -R www-data:www-data /var/www/rutorrent/plugins/theme/themes/MaterialDesign
-
-//Screenshot
+## Screenshots
 
 ![material design 1](https://cloud.githubusercontent.com/assets/15751462/14882492/6557d300-0d39-11e6-82fb-5b600ada87a9.png)
 
