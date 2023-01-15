@@ -1,5 +1,11 @@
 # ruTorrent-MaterialDesign
 
+## ruTorrent
+
+Tested on ruTorrent:
+* `v3.10`
+* `v4.0`
+
 ## Install
 
 ```bash
