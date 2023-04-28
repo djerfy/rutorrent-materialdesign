@@ -5,6 +5,7 @@
 Tested on ruTorrent:
 * `v3.10`
 * `v4.0`
+* `v4.1`
 
 ## Install
 
