@@ -1,9 +1,8 @@
 # ruTorrent-MaterialDesign
 
 <p align="center">
-  <a style="text-decoration:none" href="https://github.com/djerfy/zabbix-kubernetes-discovery/issues">
-    <img alt="Issues" src="https://img.shields.io/badge/tested%20on-v3.10,v4.0,v4.1-green?logo=gitextensions&color=0&label=Tested%20on&style=flat-square">
-  </a>
+  <img alt="Work on ruTorrent" src="https://img.shields.io/badge/tested%20on-v3.10,v4.0,v4.1,v4.2-green?logo=gitextensions&color=green&label=Work%20on%20ruTorrent&style=flat-square">
+  <img alt="Doesn't work on ruTorrent" src="https://img.shields.io/badge/tested%20on-v4.3-red?logo=gitextensions&color=red&label=Not%20work%20on%20ruTorrent&style=flat-square">
 </p>
 
 ## ruTorrent
