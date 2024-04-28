@@ -12,6 +12,10 @@ Tested on ruTorrent:
 * `v3.10`
 * `v4.0`
 * `v4.1`
+* `v4.2`
+
+Doesn't work on ruTorrent:
+* `v4.3`
 
 ## Install
 
